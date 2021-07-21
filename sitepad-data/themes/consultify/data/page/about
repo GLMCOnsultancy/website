@@ -1,0 +1,111 @@
+[pl_row pagelayer-id="dUVuiptAVgJDlcqP"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="150px,0px,150px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#12192fff" ele_padding_mobile="100px,0px,100px,0px" ele_bg_img="{{theme_url}}/images/banner.jpg"]
+[pl_col pagelayer-id="Wl10bsB9OFrcEkeh"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="xzBbTNFpIGskaqmd"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,50,,700,,,Solid,1,Capitalize,1," align="center" heading_typo_mobile=",27,,,,,Solid,,,," heading_typo_tablet=",32,,,,,Solid,,,,"]
+about us[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="fsJ1yBVx5tFZEvt0"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,100px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="9q2nhsnwyOIeP9by"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="hVnKSnVFFZnCgiSx"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,33,,800,,,Solid,1.5,Capitalize,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+Why choose us[/pl_heading]
+[pl_heading pagelayer-id="rhfyncdaX2JJDv2o"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,22,,800,,,Solid,1.5,,1," align="left" ele_padding="0%,30%,0%,0%" heading_typo_mobile=",18,,,,,Solid,,,," ele_padding_mobile="0px,0px,0px,0px" heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+Our specialized teams lead the product design and development process for high growth companies.[/pl_heading]
+[pl_text pagelayer-id="pmoPWzbWF6Xy1h1s"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_padding="0%,10%,0%,0%" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0px,0px,0px,0px"]
+
+
+<p style="text-align: left;"><span style="font-size: 16px; color: #5e5e5e;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis.</span></p>[/pl_text]
+[pl_inner_row pagelayer-id="ReGyRaRCRYQaofjm"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="30px,0px,0px,0px" ele_padding_mobile="10px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="uxTHCBKeqiZHvgvy"  widget_space="15" overlay_hover_delay="400" ele_padding="0px,15px,0px,15px" col="3"]
+[pl_iconbox pagelayer-id="CSwASX0lY3Bre1fo"  service_icon="fas fa-business-time" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#12192fff" service_icon_font_size="50" service_icon_hover_delay="400" service_bor_state="normal" service_heading="National top 50 consulting firms" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#12192fff" service_heading_typo="Yantramanav,24,,700,,,Solid,1.3,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_font_size_mobile="30" service_heading_typo_mobile=",20,,,,,Solid,,,," service_icon_font_size_tablet="35" service_heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+<p style="font-size: 16px; color: #5e5e5e;font-family:open sans;font-weight:400;
+line-height:1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="kuZeJwzmdnlRl34v"  widget_space="15" overlay_hover_delay="400" ele_padding="0px,15px,0px,15px" col="3"]
+[pl_iconbox pagelayer-id="80ktvBxZNyeg07gO"  service_icon="fas fa-award" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#12192fff" service_icon_font_size="50" service_icon_hover_delay="400" service_bor_state="normal" service_heading="99.9% client satisfaction" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#12192fff" service_heading_typo="Yantramanav,24,,700,,,Solid,1.3,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_font_size_mobile="30" service_heading_typo_mobile=",20,,,,,Solid,,,," service_icon_font_size_tablet="35" service_heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+<p style="font-size: 16px; color: #5e5e5e;font-family:open sans;font-weight:400;
+line-height:1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="UoSJWud1y2VW4rO2"  widget_space="15" overlay_hover_delay="400" ele_padding="0px,15px,0px,15px" col="3"]
+[pl_iconbox pagelayer-id="zeikB8bm6CiUczUp"  service_icon="fas fa-suitcase-rolling" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#12192fff" service_icon_font_size="50" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Over 2,000+ Business Cases" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#12192fff" service_heading_typo="Yantramanav,24,,700,,,Solid,1.3,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_font_size_mobile="30" service_heading_typo_mobile=",20,,,,,Solid,,,," service_icon_font_size_tablet="35" service_heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+<p style="font-size: 16px; color: #5e5e5e;font-family:open sans;font-weight:400;
+line-height:1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="RUKRYQZt2Nfp8zcp"  widget_space="15" overlay_hover_delay="400" ele_padding="0px,15px,0px,15px" col="3"]
+[pl_iconbox pagelayer-id="q0XEnIL5DRtGecIo"  service_icon="fas fa-globe-americas" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#12192fff" service_icon_font_size="50" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Operated in 15+ Countries" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#12192fff" service_heading_typo="Yantramanav,24,,700,,,Solid,1.3,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_font_size_mobile="30" service_heading_typo_mobile=",20,,,,,Solid,,,," service_icon_font_size_tablet="35" service_heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+<p style="font-size: 16px; color: #5e5e5e;font-family:open sans;font-weight:400;
+line-height:1.8;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta.</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="xhTIiG90DlffDN4q"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#12192fff" content_pos="center"]
+[pl_col pagelayer-id="KhqDXyZ2uNgeGDha"  widget_space="15" overlay_hover_delay="400" col_width="40" ele_padding="80px,0px,80px,100px" col_width_mobile="100" ele_padding_mobile="40px,40px,40px,40px" col_width_tablet="100" ele_padding_tablet="40px,0px,40px,50px"]
+[pl_heading pagelayer-id="rdpy7Vb22rdT4ArC"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,33,,800,,,Solid,1.2,,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+Fitbit wearable hardware[/pl_heading]
+[pl_heading pagelayer-id="l8VWJCUlzMzYTa0s"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,33,,800,,,Solid,1.2,,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+Company in 2020[/pl_heading]
+[pl_text pagelayer-id="aXyrEnrMNfaOW0Si"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color" ele_padding="0%,20%,0%,0%"]
+
+
+
+
+
+<p><span style="font-size: 14px; color: rgb(221, 217, 195);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa.</span></p>[/pl_text]
+[pl_text pagelayer-id="yxuOhnCZCekGGiho"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color" ele_padding="10%,20%,0%,0%" ele_padding_mobile="10px,0px,0px,0px" ele_padding_tablet="15px,0px,0px,0px"]
+<p><span style="font-size: 15px; color: rgb(221, 217, 195);">View Project</span></p>[/pl_text]
+[/pl_col]
+[pl_col pagelayer-id="mevELExoRTSx2Ubr"  widget_space="15" overlay_hover_delay="400" col_width="60" col_width_mobile="100" col_width_tablet="100"]
+[pl_image pagelayer-id="QDBLtOyFACilpWF0"  id="{{theme_url}}/images/banner.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" ele_margin="-35px,0px,35px,0px" ele_shadow="0,0,0,,0," img_shadow="2,2,15,#686f85ff,2," ele_margin_mobile="0px,0px,0px,0px" ele_margin_tablet="0px,0px,0px,0px"]
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="ExPpzdWKGBnezPhG"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" content_pos="center" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="7G4fw195lNzIZYO0"  widget_space="15" overlay_hover_delay="400" col_width="50" col_width_mobile="100" col_width_tablet="100"]
+[pl_image pagelayer-id="PzWyirTPyDUvENl6"  id="{{theme_url}}/images/image2.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0"]
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="zAZw3DS4qGsrC4TR"  widget_space="15" overlay_hover_delay="400" col_width="50" ele_padding="0px,0px,0px,30px" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_heading pagelayer-id="4JUemsPf1I1smVBG"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,33,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+see our process[/pl_heading]
+[pl_quote pagelayer-id="UzkAatGpPyyljcjg"  quote_background_color="" quote_content_color="#5e5e5eff" quote_style="default" align="left" cite="- John Smith" cite_text_color="#12192fff" cite_text_align="left" cite_typo="Yantramanav,18,,600,,,Solid,2.5,,," quote_border_width="0" quote_border_color="" quote_lpadding="30" quote_vpadding="20" quotation_pos="default" quotation_size="70" quotation_color="#dadada" quote_content_typo="Open Sans,16,Italic,400,,,Solid,1.5,,," ele_padding_mobile="0px,0px,0px,0px" quote_content_typo_mobile=",14,,,,,Solid,,,," cite_typo_mobile=",15,,,,,Solid,,,," cite_typo_tablet=",16,,,,,Solid,,,,"]
+
+
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante.[/pl_quote]
+[pl_iconbox pagelayer-id="duIubPqujEp1osxr"  service_icon="fas fa-long-arrow-alt-right" service_alignment="left" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="10" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Learn more  about how we work" heading_alignment="left" service_title_spacing="0,0,0,25" heading_state="normal" service_heading_color="#12192fff" service_heading_typo="Yantramanav,22,,500,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_background_color="#12192fff" service_icon_shape_type="circle" service_content_spacing="0,0,0,0" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_mobile="25" service_icon_padding_mobile="8" service_heading_typo_tablet=",20,,,,,Solid,,,," service_icon_padding_tablet="8" service_icon_font_size_tablet="30"]
+[/pl_iconbox]
+[/pl_col]
+[/pl_row]

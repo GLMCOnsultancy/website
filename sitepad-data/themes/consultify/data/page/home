@@ -1,0 +1,451 @@
+[pl_post_props pagelayer-id="z1Cnyt1CD7Wa5Ppe"  post_title="Home" post_name="home" post_status="publish" featured_image="" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="8ULIAB5DtxxCnn7v"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="150px,0px,150px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#12192fff" ele_bg_img="{{theme_url}}/images/banner2.jpg" ele_padding_mobile="65px,0px,65px,0px" ele_padding_tablet="90px,0px,90px,0px"]
+[pl_col pagelayer-id="R4ggrWdHePKRU0DZ"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="jnlwTKuTM8mVHL8P"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,50,,700,,,Solid,1,Capitalize,1," align="center" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",30,,,,,Solid,,,,"]
+
+
+
+
+
+
+Our Strength is[/pl_heading]
+[pl_heading pagelayer-id="volxmSgR4MARjNa9"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,50,,700,,,Solid,1,Capitalize,1," align="center" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",30,,,,,Solid,,,,"]
+
+
+
+
+
+
+Our community[/pl_heading]
+[pl_text pagelayer-id="XMouRAueehZRrLWM"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_padding="1%,10%,0%,10%" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0%,6%,0%,6%"]
+
+
+
+
+
+
+<p style="text-align: center; "><span style="font-size: 14px; color: #fff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis.</span></p>[/pl_text]
+[pl_btn pagelayer-id="7h5McCco44f6w3YT"  text="Get In touch" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-large" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" link="#" btn_typo="Open Sans,16,,700,,,Solid,,,," btn_custom_size="5" btn_bg_color="#12192fff" btn_color="#ffffff" btn_border_type="solid" btn_border_color="#00000000" btn_border_width="3,3,3,3" btn_border_radius="0,0,0,0" btn_bor_hover="" btn_border_type_hover="solid" btn_border_color_hover="#ffffffff" btn_border_width_hover="3,3,3,3" btn_border_radius_hover="5,5,5,5" btn_hover="hover" btn_bg_color_hover="#00000000" btn_color_hover="#ffffffff" ele_padding="30px,0px,0px,0px" btn_typo_mobile=",14,,,,,Solid,,,," ele_padding_mobile="5px,0px,0px,0px" ele_padding_tablet="15px,0px,0px,0px" btn_typo_tablet=",15,,,,,Solid,,,,"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="wJ9MmgLIOcneWUMp"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="JQaOlR7n1is8yLmY"  widget_space="15" overlay_hover_delay="400" ele_bg_type="color" ele_bg_color="#12192fff" ele_padding="70px,20px,70px,20px" border_radius="10px,10px,10px,10px" col_width="25" content_pos="center" col_width_mobile="100" ele_padding_mobile="45px,20px,45px,20px" col_width_tablet="100"]
+[pl_heading pagelayer-id="RXDkqz5P3F0FOvDN"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,33,,800,,,Solid,1.2,Capitalize,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+why choose consultify consulting for your company?[/pl_heading]
+[pl_text pagelayer-id="nBd73GfTTp9Hw5OQ"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color"]
+
+
+
+
+
+<p><span style="font-size: 14px; color: rgb(221, 217, 195);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa.</span></p>[/pl_text]
+[/pl_col]
+[pl_col pagelayer-id="loR0PZdeaHtwPUS2"  widget_space="15" overlay_hover_delay="400" col_width="22" ele_padding="0px,10px,0px,10px" content_pos="flex-start" col_width_mobile="100" col_width_tablet="100"]
+[pl_iconbox pagelayer-id="FDlnpEN6NLKrUnWn"  service_icon="fas fa-suitcase" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#12192fff" service_icon_font_size="50" service_icon_hover_delay="400" service_bor_state="normal" service_heading="National top 50 consulting firms" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#12192fff" service_heading_typo="Yantramanav,22,,600,,,Solid,1.3,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_padding="35px,20px,35px,20px" border_type="solid" border_width="1px,1px,1px,1px" border_color="#12192fff" border_radius="10px,10px,10px,10px" service_icon_font_size_mobile="35" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_tablet="40" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+
+
+
+<p style="font-size: 14px; color:#5e5e5e;font-family:open sans;font-weight:400;
+line-height:1.5;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi</p>[/pl_iconbox]
+[/pl_col]
+[pl_col pagelayer-id="tSn1oQe9hP9drijn"  widget_space="15" overlay_hover_delay="400" col_width="18" content_pos="center" col_width_mobile="100" col_width_tablet="100"]
+[pl_iconbox pagelayer-id="IUsopKmeqSX6bIi2"  service_icon="fas fa-clock" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#12192fff" service_icon_font_size="50" service_icon_hover_delay="400" service_bor_state="normal" service_heading="National top 50 consulting firms" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#12192fff" service_heading_typo="Yantramanav,22,,600,,,Solid,1.3,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_padding="35px,20px,35px,20px" border_type="solid" border_width="1px,1px,1px,1px" border_color="#12192fff" border_radius="10px,10px,10px,10px" service_icon_font_size_mobile="35" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_tablet="40" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+
+
+
+<p style="font-size: 14px; color:#5e5e5e;font-family:open sans;font-weight:400;
+line-height:1.5;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi</p>[/pl_iconbox]
+[/pl_col]
+[pl_col pagelayer-id="ABmUmvavGExUvPAV"  widget_space="15" overlay_hover_delay="400" col_width="22" ele_padding="0px,10px,0px,10px" content_pos="flex-start" col_width_mobile="100" col_width_tablet="100"]
+[pl_iconbox pagelayer-id="koWXJcA6RzrtpmME"  service_icon="fas fa-address-card" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#12192fff" service_icon_font_size="50" service_icon_hover_delay="400" service_bor_state="normal" service_heading="National top 50 consulting firms" heading_alignment="center" service_title_spacing="20,0,10,0" heading_state="normal" service_heading_color="#12192fff" service_heading_typo="Yantramanav,22,,600,,,Solid,1.3,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_padding="35px,20px,35px,20px" border_type="solid" border_width="1px,1px,1px,1px" border_color="#12192fff" border_radius="10px,10px,10px,10px" service_icon_font_size_mobile="35" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_tablet="40" service_heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+
+
+
+<p style="font-size: 14px; color:#5e5e5e;font-family:open sans;font-weight:400;
+line-height:1.5;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi</p>[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="UqO8a61H2nMtYUWO"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="0px,0px,100px,0px" ele_padding_mobile="0px,0px,40px,0px" ele_padding_tablet="0px,0px,50px,0px"]
+[pl_col pagelayer-id="WK2d1LSSK590ozA3"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="QWrmRcKdpHNfWxTi"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,33,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+A Business Consulting Company That[/pl_heading]
+[pl_heading pagelayer-id="T2G7FS7PyIw5I51T"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,33,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+Can produce anything.[/pl_heading]
+[pl_inner_row pagelayer-id="wDKmPMPG28eg74GB"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" content_pos="center"]
+[pl_inner_col pagelayer-id="PVKY7EnH0mNQijwn"  widget_space="15" overlay_hover_delay="400" col_width="30" border_type="solid" border_width="0px,1px,0px,0px" border_color="#12192fff" ele_padding="0px,20px,0px,0px" col_width_mobile="100" border_width_mobile="0px,0px,1px,0px" col_width_tablet="100"]
+[pl_stars pagelayer-id="1fS7wDZ7Dn9jKWt8"  number_of_stars="5" number_of_ratings="5.6" rating_title="" title_color="#0986c0ff" title_style=",25,,600,,,Solid,,,," stars_color="#12192fff" unmarked_stars_color="#12192fff" stars_font_size="22" stars_spacing="10" ratings_align="right" stars_font_size_mobile="18" stars_font_size_tablet="20"]
+[/pl_stars]
+[pl_text pagelayer-id="dp5wwm5pnrIcgtMH"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color"]
+
+
+
+
+
+<p style="text-align: right; "><span style="font-size: 16px; color: #5e5e5e;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa.</span></p>[/pl_text]
+[pl_heading pagelayer-id="BlQZ5OI62ueKEWJR"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,22,,600,,,Solid,1,Capitalize,1," align="right" heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+
+
+
+John Morris[/pl_heading]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="hqrfrvQFOm6wlAfr"  widget_space="15" overlay_hover_delay="400" col_width="70" ele_padding="0px,0px,0px,20px" ele_padding_mobile="0px,0px,0px,0px" col_width_mobile="100" col_width_tablet="100" ele_padding_tablet="0px,0px,0px,0px"]
+[pl_accordion pagelayer-id="bCW8wy9YpsOpbxqJ"  icon="" active_icon="" icon_align="left" icon_padding="10" tabs_color="#12192fff" tabs_bg_color="#00000000" tabs_active_color="#ffffffff" tabs_active_bg_color="#12192fff" tab_padding="15" tabs_content_bg_color="#ffffffff" ele_css="{{element}} .pagelayer-accordion-tabs{
+border:2px solid #12192fff;
+border-radius:10px;
+}
+{{element}} .pagelayer-accordion-panel p{
+color:#12192fff;
+}" acc_space="10" accordion_title_typo="Yantramanav,16,,500,,,Solid,,,," acc_content_typo="Yantramanav,16,,500,,,Solid,1.5,,," acc_content_padding="20px,20px,20px,20px"]
+[pl_accordion_item pagelayer-id="bOsqne7m7pcriiK9"  title="Lorem Ipsum is simply dummy text of the printing and typesetting industry." default_active="true"]
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>[/pl_accordion_item]
+[pl_accordion_item pagelayer-id="55BHD52CWUzupDNU"  title="Lorem Ipsum is simply dummy text of the printing and typesetting industry."]
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>[/pl_accordion_item]
+[pl_accordion_item pagelayer-id="mRPPHCQV9wSan3Kh"  title="Lorem Ipsum is simply dummy text of the printing and typesetting industry."]
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>[/pl_accordion_item]
+[/pl_accordion]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="6Lzh7G7xFm91uFcX"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#12192fff" content_pos="center"]
+[pl_col pagelayer-id="4yUZ0pyn2x8FKG7g"  widget_space="15" overlay_hover_delay="400" col_width="40" ele_padding="80px,0px,80px,100px" col_width_mobile="100" ele_padding_mobile="40px,40px,40px,40px" col_width_tablet="100" ele_padding_tablet="40px,0px,40px,50px"]
+[pl_heading pagelayer-id="4n9FiWRhkEgCqqBk"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,33,,800,,,Solid,1.2,,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+Fitbit wearable hardware[/pl_heading]
+[pl_heading pagelayer-id="J7cxNQKpqbrOwPbF"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,33,,800,,,Solid,1.2,,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+Company in 2020[/pl_heading]
+[pl_text pagelayer-id="S3ObvtfC2kzNJcRf"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color" ele_padding="0%,20%,0%,0%"]
+
+
+
+
+
+<p><span style="font-size: 14px; color: rgb(221, 217, 195);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa.</span></p>[/pl_text]
+[pl_text pagelayer-id="raKxQ56SL2KHsbzU"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color" ele_padding="10%,20%,0%,0%" ele_padding_mobile="10px,0px,0px,0px" ele_padding_tablet="15px,0px,0px,0px"]
+<p><span style="font-size: 15px; color: rgb(221, 217, 195);">View Project</span></p>[/pl_text]
+[/pl_col]
+[pl_col pagelayer-id="tWoh1Vvsw6ycQhAN"  widget_space="15" overlay_hover_delay="400" col_width="60" col_width_mobile="100" col_width_tablet="100"]
+[pl_image pagelayer-id="hYhWmDraYZouCJ6z"  id="{{theme_url}}/images/banner.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" ele_margin="-35px,0px,35px,0px" ele_shadow="0,0,0,,0," img_shadow="2,2,15,#686f85ff,2," ele_margin_mobile="0px,0px,0px,0px" ele_margin_tablet="0px,0px,0px,0px"]
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="vbUXmG58cnlmDi91"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="zvcVyYZMcO7npNmX"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="yjVoyuvl8zbWnIrW"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,33,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+our Services[/pl_heading]
+[pl_text pagelayer-id="DiLlb5yzVSO6SXo3"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_padding="1%,10%,0%,0%" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0px,0px,0px,0px"]
+
+
+<p style="text-align: left;"><span style="font-size: 16px; color: #5e5e5e;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis.</span></p>[/pl_text]
+[pl_inner_row pagelayer-id="eEolB46c0dbtTsyj"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="20px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="7k9rCleMePKCW9gL"  widget_space="15" overlay_hover_delay="400" ele_padding="0px,15px,0px,15px" col="3"]
+[pl_heading pagelayer-id="aKBMCtTNeZf0ZFe6"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+01[/pl_heading]
+[pl_heading pagelayer-id="q3vXgkxGWFmDO87X"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+Strategy[/pl_heading]
+[pl_heading pagelayer-id="yEqGczJuTwUat8WW"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+& Planning[/pl_heading]
+[pl_text pagelayer-id="uHRHd00g2ltz9Amu"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color"]
+
+
+
+
+
+<p style="text-align: left;"><span style="font-size: 16px; color: #5e5e5e;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa.</span></p>[/pl_text]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="Je1lx3ZZ5g58Jhtc"  widget_space="15" overlay_hover_delay="400" ele_padding="0px,15px,0px,15px" col="3"]
+[pl_heading pagelayer-id="DxuI1UaWQvToXiEs"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+02[/pl_heading]
+[pl_heading pagelayer-id="Z4WqqTn5P6r5lHLR"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+Finance &[/pl_heading]
+[pl_heading pagelayer-id="KnWoqgQqidkFTDhP"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+Restructuring[/pl_heading]
+[pl_text pagelayer-id="72lu9g9N6y4rInG1"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color"]
+
+
+
+
+
+<p style="text-align: left;"><span style="font-size: 16px; color: #5e5e5e;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa.</span></p>[/pl_text]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="OnOTnP5XWywIFYd9"  widget_space="15" overlay_hover_delay="400" ele_padding="0px,15px,0px,15px" col="3"]
+[pl_heading pagelayer-id="12F2KzseqKwZ4RYq"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+03[/pl_heading]
+[pl_heading pagelayer-id="T08Ih0ybm2ytRsYF"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+Audit &[/pl_heading]
+[pl_heading pagelayer-id="pxFyeLPa7imtN6bH"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+Evaluation[/pl_heading]
+[pl_text pagelayer-id="9zyFZ4gMm1gzYHox"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color"]
+
+
+
+
+
+<p style="text-align: left;"><span style="font-size: 16px; color: #5e5e5e;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa.</span></p>[/pl_text]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="ZCOfkLuKZVzCRzjV"  widget_space="15" overlay_hover_delay="400" ele_padding="0px,15px,0px,15px" col="3"]
+[pl_heading pagelayer-id="UD2dQh8aANRWjYmk"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+04[/pl_heading]
+[pl_heading pagelayer-id="uJX6nxpWMc8na1UA"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+Support &[/pl_heading]
+[pl_heading pagelayer-id="sKdnUaT7txdLZYLt"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,24,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",20,,,,,Solid,,,," heading_typo_tablet=",22,,,,,Solid,,,,"]
+
+
+
+
+
+Maintenance[/pl_heading]
+[pl_text pagelayer-id="08E6g4lEazjQBaMu"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color"]
+
+
+
+
+
+<p style="text-align: left;"><span style="font-size: 16px; color: #5e5e5e;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa.</span></p>[/pl_text]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="GUN79szJiFQkfIfV"  stretch="full" col_gap="10" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/image1.jpg" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="0px,0px,0px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="8cKmF9Z7heyOGqiQ"  widget_space="15" overlay_hover_delay="400" content_pos="flex-end" ele_padding="350px,0px,0px,20px" border_type="solid" border_width="0px,1px,0px,0px" border_color="#fdfdfaff" col_width="25" col_width_mobile="100" ele_padding_mobile="200px,0px,0px,0px" ele_padding_tablet="200px,0px,0px,0px" col_width_tablet="100"]
+[pl_heading pagelayer-id="AkmA1636IoEXUFdY"  heading_state="normal" color="#fdfdfaff" heading_typo="Yantramanav,22,,500,,,Solid,,,1," heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+Our Approach[/pl_heading]
+[pl_divider pagelayer-id="hrNKHjfWjxQ37G5T"  divider_style="solid" divider_color="#fdfdfaff" divider_weight="1" divider_widht="40" divider_gap="10" divider_alignment="left" ele_margin="-15px,0px,0px,0px" divider_widht_mobile="25" divider_widht_tablet="10"]
+[/pl_divider]
+[/pl_col]
+[pl_col pagelayer-id="qOsRbEO9s1M8hWuP"  widget_space="15" overlay_hover_delay="400" content_pos="flex-end" ele_padding="350px,0px,0px,20px" border_type="solid" border_width="0px,1px,0px,0px" border_color="#fdfdfaff" col_width="25" col_width_mobile="100" ele_padding_mobile="200px,0px,0px,0px" col_width_tablet="100" ele_padding_tablet="200px,0px,0px,0px"]
+[pl_heading pagelayer-id="HttKHdOWR5WuXtzE"  heading_state="normal" color="#fdfdfaff" heading_typo="Yantramanav,22,,500,,,Solid,,,1," heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+Our Experience[/pl_heading]
+[pl_divider pagelayer-id="FVVUdVobjf51X3Mg"  divider_style="solid" divider_color="#fdfdfaff" divider_weight="1" divider_widht="40" divider_gap="10" divider_alignment="left" ele_margin="-15px,0px,0px,0px" divider_widht_mobile="25" divider_widht_tablet="10"]
+[/pl_divider]
+[/pl_col]
+[pl_col pagelayer-id="kyLTS9TkkMBjYQt9"  widget_space="15" overlay_hover_delay="400" content_pos="flex-end" ele_padding="350px,0px,0px,20px" border_type="solid" border_width="0px,1px,0px,0px" border_color="#fdfdfaff" col_width="25" col_width_mobile="100" ele_padding_mobile="200px,0px,0px,0px" col_width_tablet="100" ele_padding_tablet="200px,0px,0px,0px"]
+[pl_heading pagelayer-id="F91VVgNC91tS7Swp"  heading_state="normal" color="#fdfdfaff" heading_typo="Yantramanav,22,,500,,,Solid,,,1," heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+Our Clients[/pl_heading]
+[pl_divider pagelayer-id="dHPn8krTU0IUG6hm"  divider_style="solid" divider_color="#fdfdfaff" divider_weight="1" divider_widht="40" divider_gap="10" divider_alignment="left" ele_margin="-15px,0px,0px,0px" divider_widht_mobile="25" divider_widht_tablet="10"]
+[/pl_divider]
+[/pl_col]
+[pl_col pagelayer-id="HmswlTd8K3Lo9y4y"  widget_space="15" overlay_hover_delay="400" content_pos="flex-end" ele_padding="350px,0px,0px,20px" border_type="solid" border_width="0px,1px,0px,0px" border_color="#fdfdfaff" col_width="25" col_width_mobile="100" ele_padding_mobile="200px,0px,0px,0px" col_width_tablet="100" ele_padding_tablet="200px,0px,0px,0px"]
+[pl_heading pagelayer-id="W8LqQ3EuZnPRMlFu"  heading_state="normal" color="#fdfdfaff" heading_typo="Yantramanav,22,,500,,,Solid,,,1," heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+Our office[/pl_heading]
+[pl_divider pagelayer-id="qfv2odiVnnltYKpa"  divider_style="solid" divider_color="#fdfdfaff" divider_weight="1" divider_widht="40" divider_gap="10" divider_alignment="left" ele_margin="-15px,0px,0px,0px" divider_widht_mobile="20" divider_widht_tablet="10"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="nEuD60UcNURG5Whe"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="80px,0px,80px,0px" content_pos="center" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="3ZbEsyY55fcjLeKH"  widget_space="15" overlay_hover_delay="400" col_width="50" col_width_mobile="100" col_width_tablet="100"]
+[pl_image pagelayer-id="sJuQNOqYBZ6rR4FS"  id="{{theme_url}}/images/image2.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0"]
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="73iPwLgvXSMon1vy"  widget_space="15" overlay_hover_delay="400" col_width="50" ele_padding="0px,0px,0px,30px" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_heading pagelayer-id="V1ooTAQ79Pg1qqW6"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,33,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+see our process[/pl_heading]
+[pl_quote pagelayer-id="6K3k2GvOdAvUdY8U"  quote_background_color="" quote_content_color="#5e5e5eff" quote_style="default" align="left" cite="- John Smith" cite_text_color="#12192fff" cite_text_align="left" cite_typo="Yantramanav,18,,600,,,Solid,2.5,,," quote_border_width="0" quote_border_color="" quote_lpadding="30" quote_vpadding="20" quotation_pos="default" quotation_size="70" quotation_color="#dadada" quote_content_typo="Open Sans,16,Italic,400,,,Solid,1.5,,," ele_padding_mobile="0px,0px,0px,0px" quote_content_typo_mobile=",14,,,,,Solid,,,," cite_typo_mobile=",15,,,,,Solid,,,," cite_typo_tablet=",16,,,,,Solid,,,,"]
+
+
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante.[/pl_quote]
+[pl_iconbox pagelayer-id="nbKUlir70sbpw7l5"  service_icon="fas fa-long-arrow-alt-right" service_alignment="left" service_vertical_alignment="middle" service_icon_view="stacked" service_icon_padding="10" service_icon_state="normal" service_icon_color="#ffffffff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Learn more  about how we work" heading_alignment="left" service_title_spacing="0,0,0,25" heading_state="normal" service_heading_color="#12192fff" service_heading_typo="Yantramanav,22,,500,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" service_icon_background_color="#12192fff" service_icon_shape_type="circle" service_content_spacing="0,0,0,0" service_heading_typo_mobile=",18,,,,,Solid,,,," service_icon_font_size_mobile="25" service_icon_padding_mobile="8" service_heading_typo_tablet=",20,,,,,Solid,,,," service_icon_padding_tablet="8" service_icon_font_size_tablet="30"]
+[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="YxhPcccRjVrx0MHn"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="20px,0px,80px,0px" ele_padding_mobile="40px,0px,40px,0px" ele_padding_tablet="50px,0px,50px,0px"]
+[pl_col pagelayer-id="sfQUIBPGuoxAllT6"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="W5CYzqVxFWcSgAio"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,33,,800,,,Solid,1,Capitalize,1," align="left" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+Visit on our blog[/pl_heading]
+[pl_text pagelayer-id="vYPtFh539rnMF1MN"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_padding="0%,10%,0%,0%" ele_padding_mobile="0px,0px,0px,0px" ele_padding_tablet="0px,0px,0px,0px"]
+
+<p style="text-align: left;"><span style="font-size: 16px; color: #5e5e5e;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante. Vestibulum sed tristique massa. Quisque et feugiat risus, eu tristique felis.</span></p>[/pl_text]
+[pl_inner_row pagelayer-id="8wM7V1Lfy3tmeby5"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="30px,0px,0px,0px" ele_padding_mobile="10px,0px,0px,0px" ele_padding_tablet="10px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="1VneVfAYqXspITRA"  widget_space="15" overlay_hover_delay="400" col_width="25" col="3"]
+[pl_image pagelayer-id="VHN5FqPGuT8HNlt0"  id="{{theme_url}}/images/image5.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="" overlay="true" icon="" icon_color="" icon_size="NaN" overlay_bg_type="color" overlay_bg="#12192f81" content_position="flex-end" show_always="true"]
+
+<p style="font-family:Yantramanav;font-size: 20px;font-weight:800; color: #fff;line-height:1.3;text-align:left;padding-left:30px;padding-right:30px;padding-bottom:50px;">10 Things Successful Mompreneurs Do Different</p>[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="gjuczcJiTgeVUrbP"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_image pagelayer-id="nslj9DDFFNj2xim9"  id="{{theme_url}}/images/image3.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="" overlay="true" icon="" icon_color="" icon_size="NaN" overlay_bg_type="color" overlay_bg="#12192f81" content_position="flex-end" show_always="true"]
+
+<p style="font-family:Yantramanav;font-size: 20px;font-weight:800; color: #fff;line-height:1.3;text-align:left;padding-left:30px;padding-right:30px;padding-bottom:50px;">10 Things Successful Mompreneurs Do Different</p>[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="ZrHImVh53xUDszTY"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_image pagelayer-id="gu5WmyFe76sFDU9V"  id="{{theme_url}}/images/image4.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="" overlay="true" icon="" icon_color="" icon_size="NaN" overlay_bg_type="color" overlay_bg="#12192f81" content_position="flex-end" show_always="true"]
+
+<p style="font-family:Yantramanav;font-size: 20px;font-weight:800; color: #fff;line-height:1.3;text-align:left;padding-left:30px;padding-right:30px;padding-bottom:50px;">10 Things Successful Mompreneurs Do Different</p>[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="UmsxGWOpfV5tsXy9"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_image pagelayer-id="QFgCsMNaYLyVLM3j"  id="{{theme_url}}/images/image6.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="" overlay="true" icon="" icon_color="" icon_size="NaN" overlay_bg_type="color" overlay_bg="#12192f81" content_position="flex-end" show_always="true"]
+
+<p style="font-family:Yantramanav;font-size: 20px;font-weight:800; color: #fff;line-height:1.3;text-align:left;padding-left:30px;padding-right:30px;padding-bottom:50px;">10 Things Successful Mompreneurs Do Different</p>[/pl_image]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="tTvKf0ZJWWJxNrNb"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="50px,0px,0px,0px" ele_padding_mobile="20px,0px,0px,0px" ele_padding_tablet="20px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="UOekVt0GOBFGgdpx"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="nGjxxPbFLTPu4fuC"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,33,,800,,,Solid,1,,1," align="center" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+We are optimists who love to work[/pl_heading]
+[pl_heading pagelayer-id="8gTlBhCvwRu7xXA0"  heading_state="normal" color="#12192fff" heading_typo="Yantramanav,33,,800,,,Solid,1,,1," align="center" heading_typo_mobile=",22,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+together[/pl_heading]
+[pl_btn pagelayer-id="7xjAa9bOdiMVorIX"  text="Get in touch" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-large" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" link="#" btn_typo="Open Sans,16,,700,,,Solid,,Capitalize,," btn_bg_color="#12192fff" btn_color="#ffffff" btn_border_type="solid" btn_border_color="" btn_border_width="0,0,0,0" btn_border_radius="5,5,5,5" ele_padding="25px,0px,0px,0px" btn_typo_mobile=",14,,,,,Solid,,,," ele_padding_mobile="10px,0px,0px,0px" ele_padding_tablet="15px,0px,0px,0px" btn_typo_tablet=",14,,,,,Solid,,,,"]
+[/pl_btn]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]

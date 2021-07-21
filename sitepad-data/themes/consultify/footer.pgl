@@ -1,0 +1,73 @@
+[pl_row pagelayer-id="AQCNnykExHx11ewY"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#12192fff" ele_padding="60px,0px,60px,0px" ele_padding_mobile="30px,0px,30px,0px" ele_padding_tablet="40px,0px,40px,0px"]
+[pl_col pagelayer-id="qdCdbNzSjwhtgb4m"  widget_space="15" overlay_hover_delay="400" col_width="25" col_width_mobile="100" col_width_tablet="100"]
+[pl_wp_title pagelayer-id="RHY2EkqJNgZdNfVy"  site_title_state="normal" text-align="left" title_padding="0,0,0,0" site_title_style="Yantramanav,28,,700,,,Solid,1.5,Capitalize,1," title_color="#ffffffff" site_title_style_mobile=",22,,,,,Solid,,,," site_title_style_tablet=",24,,,,,Solid,,,,"]
+[/pl_wp_title]
+[pl_text pagelayer-id="leXbZshc07l0t2rq"  ele_css="{{element}} .pagelayer-text-holder{
+font-family:open sans;font-weight:400;
+line-height:1.5;
+}" ele_bg_type="color"]
+
+
+<p><span style="font-size: 14px; color: rgb(221, 217, 195);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa.</span></p>[/pl_text]
+[pl_social_grp pagelayer-id="WFofDFuarEQUWwOM"  align="left" group_layout="pagelayer-btn-grp-horizontal" icon_spacing="10" icon_size="16" color_scheme="" icon_color="#ffffffff" social_hover_delay="400" icon_color_hover="#ffffff"]
+[pl_social pagelayer-id="KZmBIuMgPSalSjrY"  icon="fab fa-facebook-f" social_url="https://www.facebook.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="iXL76WgIaxvpyUiH"  icon="fab fa-instagram" social_url="https://www.instagram.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="zwZzcOQ0Uh90scM1"  icon="fab fa-twitter" social_url="https://twitter.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="kUEsDWL572g5j6sW"  icon="fab fa-youtube" social_url="https://www.youtube.com/sitepad"]
+[/pl_social]
+[pl_social pagelayer-id="EYiSVoyvIm0hkErZ"  icon="fab fa-linkedin-in" social_url="https://in.linkedin.com/sitepad"]
+[/pl_social]
+[/pl_social_grp]
+[/pl_col]
+[pl_col pagelayer-id="zTnvUqzgDwhGVDsq"  widget_space="15" overlay_hover_delay="400" col_width="20" col_width_mobile="100" col_width_tablet="100"]
+[pl_heading pagelayer-id="9Uf8EvdGKbe1Owg3"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,22,,600,,,Solid,,Capitalize,1," heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+helpful links[/pl_heading]
+[pl_wp_menu pagelayer-id="BFTLme2HEkvbpQHU"  nav_list="5" align="left" layout="vertical" pointer="" m_animation="slide" list_style="none" submenu_ind="caret-down" menu_bg_color_hover="" menu_bg_color_active="" horizontal_padding="5" vertical_padding="5" submenu_color="#ffffff" submenu_bg_color="#0986c0" submenu_horizontal_padding="10" submenu_vertical_padding="10" submenu_left_margin="10" menu_toggle_align="center" menu_toggle_bg_color="#0986c050" menu_toggle_size="30" slide_style="pagelayer-wp_menu-right" menu_width="30" menu_items_width="100" menu_posy="8" menu_bg="color" close_size="25" close_padding="8" close_color="#ffffff68" close_bg_color="#00000036" close_hover_delay="600" close_color_hover="#ffffff" close_bg_color_hover="#000000" submenu_position="left" menu_items_bg="#ffffff" menu_typo="Open Sans,14,,400,,,Solid,1.5,Capitalize,1," menu_color="#ddd9c3ff"]
+[/pl_wp_menu]
+[/pl_col]
+[pl_col pagelayer-id="jZ7BOPmH00yrwmTK"  widget_space="15" overlay_hover_delay="400" col_width="30" col_width_mobile="100" col_width_tablet="100"]
+[pl_heading pagelayer-id="3EY2SwN5ALlg0NoP"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,22,,600,,,Solid,,Capitalize,1," heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+latest post[/pl_heading]
+[pl_list pagelayer-id="2JkFNk43OyatP13D"  list_type="none" spacing="20" list_text_state="normal" item_indent="10" list_icon_state="normal" icon_color="#0986c0" icon_border_type="" icon_border_color="#cbd2dc78" icon_border_width="3" list_color="#ddd9c3ff" list_typo="Open Sans,14,,400,,,Solid,,,,"]
+[pl_list_item pagelayer-id="S0ZZtJSsltGpzJ24"  show_icon="" icon="fas fa-star"]
+
+
+Using technology in small business[/pl_list_item]
+[pl_list_item pagelayer-id="Z0hqJfQHd3LJNTQZ"  show_icon="" icon="fas fa-star"]
+
+
+Using technology in small business[/pl_list_item]
+[pl_list_item pagelayer-id="lsEalbBMM7rXMkVa"  show_icon="" icon="fas fa-star"]
+
+
+Using technology in small business[/pl_list_item]
+[pl_list_item pagelayer-id="QeBvJj4iuPA6alv2"  show_icon="" icon="fas fa-star"]
+
+
+Using technology in small business[/pl_list_item]
+[pl_list_item pagelayer-id="paMSx0lp5ix5OBcC"  show_icon="" icon="fas fa-star"]
+
+
+Using technology in small business[/pl_list_item]
+[/pl_list]
+[/pl_col]
+[pl_col pagelayer-id="vpMzSVTzgWhPA1Bx"  widget_space="15" overlay_hover_delay="400" col_width="25" col_width_mobile="100" col_width_tablet="100"]
+[pl_heading pagelayer-id="2qwuoy7fxTqGL4ba"  heading_state="normal" color="#ffffffff" heading_typo="Yantramanav,22,,600,,,Solid,,Capitalize,1," heading_typo_mobile=",18,,,,,Solid,,,," heading_typo_tablet=",20,,,,,Solid,,,,"]
+
+
+contact info[/pl_heading]
+[pl_phone pagelayer-id="a3K0737shMYAuPYi"  icon="fas fa-phone-alt" color="#ddd9c3ff" typography="Open Sans,14,,400,,,Solid,1.5,,," space="10" icon_size="14" icon_color="#ffffffff" align="flex-start" ele_padding="10px,0px,0px,0px"]
+[/pl_phone]
+[pl_email pagelayer-id="Jt6n8HBCoOYfbVEF"  icon="fas fa-envelope" color="#ddd9c3ff" typography="Open Sans,14,,400,,,Solid,1.5,,," space="10" icon_color="#ffffffff" icon_size="14" align="flex-start" ele_padding="10px,0px,0px,0px"]
+[/pl_email]
+[pl_address pagelayer-id="cDO2Vd85gzeJzNxg"  icon="fas fa-map-marker-alt" space="10" color="#ddd9c3ff" typography="Open Sans,14,,400,,,Solid,1.5,,," icon_color="#ffffffff" icon_size="14" ele_padding="10px,0px,0px,0px"]
+[/pl_address]
+[/pl_col]
+[/pl_row]
